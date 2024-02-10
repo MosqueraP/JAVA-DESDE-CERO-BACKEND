@@ -1,5 +1,6 @@
 # custon ignores
 .idea
+.idea/
 out/
 target/
 
